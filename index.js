@@ -93,7 +93,7 @@ client.connect();
 
 client.on('message-status-update', json => {
    const participant = json.participant ? ' (' + json.participant + ')' : ''
-   console.log(`[ ${time} ] => bot by ig:@aditiaalfians`)
+   console.log(`[ ${time} ] => Bot by MrBeazD`)
 })
 
 client.on('message-new', async (m) => {
