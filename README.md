@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="MrBeazD BOT" src ="https://i.top4top.io/m_18072o7sa0.mp3" width="320">
+    <img alt="MrBeazD BOT" src ="https://b.top4top.io/p_1818z2gql0.jpg" width="320">
     <h3> BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX </h3>
 # MrBeazD BOT
 </div>
